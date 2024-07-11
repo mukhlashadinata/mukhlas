@@ -7,7 +7,7 @@ body {
 	font-size: 13px;
 	color: #061C37;
 	background: #EEEFE4;
-	background-image:url(images/background.png);
+	background-image:url(images/background.jpg);
 	background-repeat:repeat-x;
 }
 *
@@ -48,8 +48,8 @@ top:50px;
 {
 background-image:url(images/main.jpg);
 background-repeat:no-repeat;
-width:900px;
-height:354px;	
+width:960px;
+height:540px;	
 }
 
 
